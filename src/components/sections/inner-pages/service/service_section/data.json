@@ -1,0 +1,50 @@
+[
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-1.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-1.svg",
+    "title": "Resource Flexibility",
+    "text": "This is an excellent option for people small businesses who are starting out."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-2.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-2.svg",
+    "title": "Managed Services",
+    "text": "Enhance your operational efficiency with our comprehensive managed services tailored to your cybersecurity need."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-3.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-3.svg",
+    "title": "Web-Based Access",
+    "text": "Secure web-based access solutions tailored for your cybersecurity needs."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-4.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-4.svg",
+    "title": "Resource Flexibility",
+    "text": "Adapt and optimize resource allocation with our flexible solutions tailored to your cybersecurity requirements."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-5.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-5.svg",
+    "title": "Anomaly Detection",
+    "text": "Empower your cybersecurity with cutting-edge anomaly detection technologies."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-6.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-6.svg",
+    "title": "Predictive Analytics",
+    "text": "Harness the power of predictive analytics for proactive cybersecurity insights."
+  },
+  {
+    "icon_black": "assets/img/th-1/service-icon-black-6.svg",
+    "icon_orange": "assets/img/th-1/service-icon-orange-6.svg",
+    "title": "Speech Recognition",
+    "text": "Revolutionize communication with advanced speech recognition technology."
+  },
+  {
+    "icon_black": "assets/img/th-1/comp.jpg",
+    "icon_orange": "assets/img/th-1/comp.jpg",
+    "title": "Computer Vision",
+    "text": "Unlock the power of computer vision for advanced security and automation solutions."
+  }
+]
